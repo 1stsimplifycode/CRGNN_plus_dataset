@@ -1,3 +1,7 @@
+<div align="center"><img src="https://raw.githubusercontent.com/1stsimplifycode/1stsimplifycode/main/assets/universal-project-3d.svg" width="100%" alt="Animated isometric engineering project" /></div>
+
+[← Portfolio](https://github.com/1stsimplifycode) · [Domains](https://github.com/1stsimplifycode/1stsimplifycode/blob/main/docs/PROJECT_DIRECTORY.md)
+
 CRGNN+ Synthetic Multimodal Movie Scene Dataset
 Associated Paper:
 > *Emotion-Aware Multi-Perspective Movie Summarization via Adaptive Multimodal Fusion and Causal Narrative Graphs*
